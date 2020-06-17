@@ -1288,6 +1288,12 @@ footer .credits a {
   }
 }
 
+@media (max-width: 600px) {
+  .scrolldown-vista{
+    left: 54%;
+  }
+}
+
 .scrolldown-vista{
   position: absolute;
   bottom: 0.1px;
